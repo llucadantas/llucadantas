@@ -17,5 +17,5 @@ Tenho um interesse profundo em construir aplicações robustas, escaláveis e de
 Estou em constante aprimoramento no desenvolvimento de APIs com Spring Boot, modelagem de bancos de dados relacionais e otimização de sistemas. Meu objetivo é sempre unir a precisão da lógica de dados com as melhores práticas da engenharia de software moderna.
 
 ### 📬 Como me conectar
-*   **LinkedIn:** [linkedin.com/in/seu-perfi](www.linkedin.com/in/lucas-dantas-b74797359)
+*   **LinkedIn:** [linkedin.com/in/lucas-dantas-b74797359](www.linkedin.com/in/lucas-dantas-b74797359)
 *   **E-mail:** lucasdantasps2015@gmail.com
