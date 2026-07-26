@@ -9,8 +9,8 @@ Tenho um interesse profundo em construir aplicações robustas, escaláveis e de
 ### 💻 Stack e Ferramentas
 
 *   **Foco Principal (Back-end):** Java, Spring Boot
-*   **Arquitetura e Boas Práticas:** POO, SOLID, Design Patterns, Modelagem UML
-*   **Banco de Dados:** PostgreSQL, SQL Avançado
+*   **Arquitetura e Boas Práticas:** POO, SOLID, Design Patterns
+*   **Banco de Dados:** PostgreSQL, MySQL
 *   **Dados e Automação:** Python, Pandas, Web Scraping, Scripts de ETL
 
 ### 🚀 Meus Focos Atuais
