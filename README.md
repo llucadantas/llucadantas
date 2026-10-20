@@ -4,27 +4,13 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFPB e possuo uma sólida base analítica, vinda da minha experiência profissional com análise de dados e supervisão. Atualmente, meu foco e dedicação estão integralmente voltados para a **Engenharia de Software** e o **Desenvolvimento Back-end**.
 
-Tenho um interesse profundo em construir aplicações robustas, escaláveis e de fácil manutenção. Direciono meus estudos para o ecossistema Java, priorizando a qualidade do código através da aplicação rigorosa de Arquitetura de Software, Programação Orientada a Objetos (POO), Princípios SOLID e Design Patterns.
+Direciono minha atuação para a engenharia de software voltada à construção de sistemas resilientes e escaláveis. Priorizo o ciclo de vida do código e a facilidade de manutenção por meio da adoção de boas práticas.
 
 ### 💻 Stack e Ferramentas
 
-**Foco Principal (Back-end):**
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-</div><br>
-
-**Banco de Dados:**
-<div style="display: inline_block">
-  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-</div><br>
-
-**Dados e Automação:**
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
-</div><br>
+| Back-end | Front-end | Banco de Dados & DevOps | Dados e Automação |
+| :---: | :---: | :---: | :---: |
+| <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> &nbsp; <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"> | <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> &nbsp; <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"> &nbsp; <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"> | <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"> &nbsp; <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"> &nbsp; <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"> | <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> &nbsp;
 
 **Arquitetura e Boas Práticas:**
 > POO, Princípios SOLID, Design Patterns, Web Scraping e Scripts de ETL.
