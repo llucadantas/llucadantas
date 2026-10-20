@@ -4,8 +4,6 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFPB e possuo uma sólida base analítica, vinda da minha experiência profissional com análise de dados e supervisão. Atualmente, meu foco e dedicação estão integralmente voltados para a **Engenharia de Software** e o **Desenvolvimento Back-end**.
 
-Atuo na concepção de aplicações escaláveis, robustas e de alta manutenibilidade. Meu foco é garantir a excelência técnica e a qualidade estrutural dos sistemas através da aplicação rigorosa de Arquiteturas de Software, Programação Orientada a Objetos (POO), princípios SOLID e Design Patterns.
-
 ### 💻 Stack e Ferramentas
 
 | Back-end | Front-end | Banco de Dados & DevOps | Dados e Automação |
